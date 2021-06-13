@@ -1,0 +1,1 @@
+shared_ptr<node<int, string>> ptr
